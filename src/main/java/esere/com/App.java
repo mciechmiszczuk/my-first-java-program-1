@@ -9,6 +9,7 @@ public class App {
         for (int i = 0; i < 7; i++) {
             System.out.println("ts");
 
+
         }
 eneine
         for (int i = 0; i < 22;
